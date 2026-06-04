@@ -167,9 +167,9 @@ current_focus = {
 
 📧 Email: [swadhishofficial@gmail.com](mailto:swadhishofficial@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/swadhishks
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/Swadhish-ks
 
 ---
 
