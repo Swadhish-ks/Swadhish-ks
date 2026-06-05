@@ -24,27 +24,25 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding GIF"/>
-</div>
-
-<br/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class SwadhishKS:
     def __init__(self):
-        self.name        = "Swadhish K S"
-        self.location    = "Kerala, India 🇮🇳"
-        self.degree      = "B.Tech — Computer Science & Engineering"
-        self.university  = "APJ Abdul Kalam Technological University"
-        self.role        = "AI/ML Engineer | LLM Engineer"
-        self.email       = "swadhishofficial@gmail.com"
+        self.name     = "Swadhish K S"
+        self.location = "Kerala, India 🇮🇳"
+        self.degree   = "B.Tech CSE"
+        self.role     = "AI/ML Engineer | LLM Engineer"
+        self.email    = "swadhishofficial@gmail.com"
 
         self.stack = [
-            "Python", "LangChain", "LlamaIndex", "LangGraph",
-            "FastAPI", "Django", "Hugging Face", "PyTorch",
-            "OpenAI API", "Ollama", "FAISS", "ChromaDB",
-            "Docker", "AWS", "RAG Pipelines", "Agentic AI"
+            "Python", "LangChain", "LlamaIndex",
+            "LangGraph", "FastAPI", "Django",
+            "Hugging Face", "PyTorch", "OpenAI API",
+            "Ollama", "FAISS", "ChromaDB",
+            "Docker", "AWS", "RAG", "Agentic AI"
         ]
 
         self.currently_learning = [
@@ -54,14 +52,24 @@ class SwadhishKS:
             "Advanced Prompt Engineering"
         ]
 
-        self.fun_fact = "I reduced inference latency by 30% using quantization — before coffee ☕"
+        self.fun_fact = (
+            "Cut inference latency 30% via "
+            "quantization — before coffee ☕"
+        )
 
     def motto(self):
-        return "Bridge research and real products. Ship AI that matters."
+        return "Ship AI that matters."
 
 me = SwadhishKS()
 print(me.motto())
 ```
+
+</td>
+<td valign="top" width="45%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
