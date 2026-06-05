@@ -1,176 +1,251 @@
-# Hi 👋, I'm Swadhish K S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swadhish%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Engineer%20%7C%20Building%20Intelligent%20Systems%20that%20Scale&descAlignY=62&descSize=16" width="100%"/>
 
-### AI/ML Engineer | LLM Engineer | Generative AI Engineer
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+LLM+Engineer;RAG+Pipelines+%2B+Agentic+AI+Builder;LangChain+%7C+LlamaIndex+%7C+Hugging+Face;Turning+Research+Into+Production+AI" alt="Typing SVG" />
+  </a>
+</div>
 
-🚀 Passionate about building intelligent systems powered by **Large Language Models, Machine Learning, NLP, and Generative AI**.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=swadhishks&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/swadhishks">
+    <img src="https://img.shields.io/badge/LinkedIn-swadhishks-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:swadhishofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-swadhishofficial@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
 
-I specialize in developing production-ready AI applications, RAG pipelines, LLM integrations, and scalable backend services that solve real-world problems.
+-----
 
----
+## 🧠 About Me
 
-## 🚀 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-* 🎓 B.Tech in Computer Science & Engineering
-* 🤖 AI/ML Engineer with experience in LLMs, RAG, NLP, and Deep Learning
-* 🔥 Building production-grade AI applications using FastAPI, LangChain, Hugging Face, and Vector Databases
-* ⚡ Reduced inference latency by **30%** through model optimization
-* 📈 Improved model performance by **15%** through feature engineering and data preprocessing
-* 🛠 Experienced in deploying AI solutions with Docker, AWS, and CI/CD pipelines
-* 🌱 Currently exploring:
+```python
+class SwadhishKS:
+    def __init__(self):
+        self.name        = "Swadhish K S"
+        self.location    = "Kerala, India 🇮🇳"
+        self.degree      = "B.Tech — Computer Science & Engineering"
+        self.university  = "APJ Abdul Kalam Technological University"
+        self.role        = "AI/ML Engineer | LLM Engineer"
+        self.email       = "swadhishofficial@gmail.com"
 
-  * Agentic AI Systems
-  * Advanced RAG Architectures
-  * LLM Fine-Tuning
-  * AI System Design
-  * MLOps
+        self.stack = [
+            "Python", "LangChain", "LlamaIndex", "LangGraph",
+            "FastAPI", "Django", "Hugging Face", "PyTorch",
+            "OpenAI API", "Ollama", "FAISS", "ChromaDB",
+            "Docker", "AWS", "RAG Pipelines", "Agentic AI"
+        ]
 
----
+        self.currently_learning = [
+            "LangGraph Multi-Agent Systems",
+            "Model Fine-Tuning & RLHF",
+            "MLOps & Production LLM Deployment",
+            "Advanced Prompt Engineering"
+        ]
 
-## 💻 Tech Stack
+        self.fun_fact = "I reduced inference latency by 30% using quantization — before coffee ☕"
 
-### 🤖 AI / Machine Learning
+    def motto(self):
+        return "Bridge research and real products. Ship AI that matters."
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+me = SwadhishKS()
+print(me.motto())
+```
 
-### 🧠 LLM & Generative AI
+<br clear="right"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4A90E2?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+-----
 
-### ⚙ Backend & Databases
+## 🛠️ Tech Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+**Languages**
 
-### ☁ Cloud & DevOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge)
+**AI / LLM Frameworks**
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A3FA0?style=flat-square&logo=llama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-## 📊 Professional Highlights
+**Backend & APIs**
 
-| Achievement            | Impact                           |
-| ---------------------- | -------------------------------- |
-| AI API Deployment      | Reduced manual processing by 40% |
-| Feature Engineering    | Improved model accuracy by 15%   |
-| Model Optimization     | Reduced inference latency by 30% |
-| Resume Parsing System  | Achieved 95%+ parsing accuracy   |
-| Voice Coding Assistant | Achieved 90%+ intent accuracy    |
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
----
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Databases & Vector Stores**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0066CC?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Libraries**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+-----
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/swadhishks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swadhishks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/swadhishks">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhishks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+-----
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=swadhishks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+</div>
+
+-----
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhishks&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+-----
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=swadhishks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+-----
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Cyber Square Professional &nbsp;|&nbsp; AI/ML Engineer Intern &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; Calicut, Kerala</b></summary>
+
+<br/>
+
+
+> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+> ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+> ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+- 🚀 Designed and deployed ML/NLP models into production REST APIs using **FastAPI**, reducing manual processing time by **~40%** and enabling real-time AI inference at scale.
+- 📊 Built end-to-end data preprocessing and feature engineering pipelines (Pandas, NumPy), improving model accuracy by **15%** across multiple classification tasks.
+- ⚡ Integrated **Hugging Face Transformers** into LLM services; applied model quantization & pruning to cut inference latency by **30%** with zero accuracy degradation.
+- 🐳 Containerized AI microservices with **Docker**; collaborated within Agile CI/CD workflows delivering production releases consistently on schedule.
+
+</details>
+
+-----
 
 ## 🚀 Featured Projects
 
-### 🎙 Voice-Activated Coding Assistant
-
-AI-powered voice-to-code platform using speech recognition and LLMs.
-
-**Tech Stack**
-
-* Python
-* Django
-* Ollama
-* NLP
-* Prompt Engineering
-
-**Key Results**
-
-* 90%+ intent recognition accuracy
-* Sub-1.5s code generation
-* Support for 10+ programming languages
-* Reduced hallucinations by 35%
-
----
-
-### 📄 AI Resume Analyzer & ATS Scorer
-
-Production-grade ATS optimization platform powered by NLP and Retrieval-Augmented Generation.
-
-**Tech Stack**
-
-* FastAPI
-* RAG
-* OCR
-* React
-* Scikit-learn
-
-**Key Results**
-
-* 95%+ resume parsing accuracy
-* 88% matching relevance
-* Sub-2 second response time
-* Multi-format document support
-
----
-
-### 👤 Real-Time Face Recognition System
-
-Computer vision application for real-time multi-user face recognition.
-
-**Tech Stack**
-
-* Python
-* OpenCV
-* LBPH
-* Computer Vision
-
-**Key Results**
-
-* Real-time recognition
-* Modular architecture
-* Zero-downtime model updates
-* Persistent user enrollment
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+|🗂️ Project                                                             |🔧 Stack                                                   |✨ Highlights                                                                                                |
+|:--------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|[**AI Resume Analyzer & ATS Scorer**](https://github.com/swadhishks)  |FastAPI · RAG · NLP · OCR · Scikit-learn · React · Docker |95%+ parse accuracy · 88% JD relevance match · sub-2s response under concurrent load                        |
+|[**Voice-Activated Coding Assistant**](https://github.com/swadhishks) |Python · Django · Ollama · LLMs · NLP · Prompt Engineering|>90% intent accuracy · sub-1.5s code generation · 35% hallucination reduction · 10+ languages               |
+|[**Real-Time Face Recognition System**](https://github.com/swadhishks)|Python · OpenCV · LBPH · Computer Vision                  |Modular 3-stage architecture · zero-reboot enrollment · zero-downtime updates · variable lighting robustness|
 
 </div>
 
----
+-----
 
-## 🔥 Current Focus
+## 🏅 Achievements
 
-```python
-current_focus = {
-    "LLM_Engineering": True,
-    "RAG_Systems": True,
-    "Agentic_AI": True,
-    "Generative_AI": True,
-    "MLOps": True,
-    "Open_Source": True
-}
+<div align="center">
+
+|🎖️  |Achievement                           |Details                                                                                                   |
+|:-:|:-------------------------------------|:---------------------------------------------------------------------------------------------------------|
+|⚡  |**30% Inference Latency Reduction**   |Applied model quantization & pruning on HuggingFace Transformers in production — zero accuracy degradation|
+|🚀  |**40% Processing Time Savings**       |FastAPI-based ML pipeline deployment at Cyber Square Professional                                         |
+|🎯  |**95%+ Parse Accuracy**               |Document parsing platform (PDF/DOCX/image OCR) in AI Resume Analyzer                                      |
+|🤝  |**88% Job-Description Match Accuracy**|NLP-based ATS scoring with RAG-enriched pipeline                                                          |
+|🧠  |**>90% Intent Accuracy**              |Voice-to-code AI pipeline with sub-1.5s generation latency                                                |
+|📉  |**35% Hallucination Reduction**       |Systematic prompt engineering applied at Django REST API layer                                            |
+|🎓  |**B.Tech CSE Graduate**               |APJ Abdul Kalam Technological University · 2021–2025                                                      |
+
+</div>
+
+-----
+
+## 🎓 Education & Currently Learning
+
+<div align="center">
+
+|🎓 Degree                               |🏫 Institution                                             |📅 Year     |
+|:-------------------------------------:|:--------------------------------------------------------:|:---------:|
+|B.Tech — Computer Science & Engineering|APJ Abdul Kalam Technological University, Thrissur, Kerala|2021 – 2025|
+
+</div>
+
+<br/>
+
+```
+🧱 Currently Leveling Up:
+
+  🤖 Agentic AI      → LangGraph Multi-Agent Systems, Tool Calling, Memory
+  🔬 LLM Fine-Tuning → LoRA, QLoRA, RLHF, Instruction Tuning
+  ☁️  MLOps           → Model Serving, LLMOps, Monitoring, A/B Testing
+  💡 Prompt Craft    → Chain-of-Thought, ReAct, Structured Outputs
+  📊 Data Science    → Kaggle Projects, A/B Testing, Dashboards (Tableau / Power BI)
 ```
 
----
+-----
 
-## 🤝 Let's Connect
+<div align="center">
+  <i>"Bridge research and real products. Ship AI that matters."</i>
+  <br/><br/>
+  <a href="https://linkedin.com/in/swadhishks">
+    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:swadhishofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-📧 Email: [swadhishofficial@gmail.com](mailto:swadhishofficial@gmail.com)
+<br/>
 
-💼 LinkedIn: www.linkedin.com/in/swadhishks
-
-💻 GitHub: https://github.com/Swadhish-ks
-
----
-
-### "Building AI systems that create measurable impact and solve real-world problems."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
