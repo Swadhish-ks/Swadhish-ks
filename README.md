@@ -1,27 +1,34 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swadhish%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20LLM%20Engineer%20%7C%20Building%20Intelligent%20Systems%20that%20Scale&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+LLM+Engineer;RAG+Pipelines+%2B+Agentic+AI+Builder;LangChain+%7C+LlamaIndex+%7C+Hugging+Face;Turning+Research+Into+Production+AI" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+LLM+Engineer;RAG+Pipelines+%2B+Agentic+AI+Builder;LangChain+%7C+LlamaIndex+%7C+Hugging+Face;Turning+Research+Into+Production+AI" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=swadhishks&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  &nbsp;
   <a href="https://linkedin.com/in/swadhishks">
     <img src="https://img.shields.io/badge/LinkedIn-swadhishks-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:swadhishofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-swadhishofficial@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
------
+---
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding GIF"/>
+</div>
+
+<br/>
 
 ```python
 class SwadhishKS:
@@ -56,9 +63,7 @@ me = SwadhishKS()
 print(me.motto())
 ```
 
-<br clear="right"/>
-
------
+---
 
 ## 🛠️ Tech Stack
 
@@ -115,20 +120,17 @@ print(me.motto())
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
------
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/swadhishks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swadhishks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/swadhishks">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhishks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swadhishks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhishks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
------
+---
 
 ## 🔥 Streak Stats
 
@@ -136,7 +138,7 @@ print(me.motto())
   <img src="https://streak-stats.demolab.com?user=swadhishks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
------
+---
 
 ## 📈 Activity Graph
 
@@ -144,7 +146,7 @@ print(me.motto())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhishks&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
------
+---
 
 ## 🏆 Trophy Wall
 
@@ -152,7 +154,7 @@ print(me.motto())
   <img src="https://github-profile-trophy.vercel.app/?username=swadhishks&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
------
+---
 
 ## 💼 Work Experience
 
@@ -160,7 +162,6 @@ print(me.motto())
 <summary><b>🏢 Cyber Square Professional &nbsp;|&nbsp; AI/ML Engineer Intern &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; Calicut, Kerala</b></summary>
 
 <br/>
-
 
 > ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 > ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -176,47 +177,47 @@ print(me.motto())
 
 </details>
 
------
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-|🗂️ Project                                                             |🔧 Stack                                                   |✨ Highlights                                                                                                |
-|:--------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-|[**AI Resume Analyzer & ATS Scorer**](https://github.com/swadhishks)  |FastAPI · RAG · NLP · OCR · Scikit-learn · React · Docker |95%+ parse accuracy · 88% JD relevance match · sub-2s response under concurrent load                        |
-|[**Voice-Activated Coding Assistant**](https://github.com/swadhishks) |Python · Django · Ollama · LLMs · NLP · Prompt Engineering|>90% intent accuracy · sub-1.5s code generation · 35% hallucination reduction · 10+ languages               |
-|[**Real-Time Face Recognition System**](https://github.com/swadhishks)|Python · OpenCV · LBPH · Computer Vision                  |Modular 3-stage architecture · zero-reboot enrollment · zero-downtime updates · variable lighting robustness|
+| 🗂️ Project | 🔧 Stack | ✨ Highlights |
+|:---|:---|:---|
+| [**AI Resume Analyzer & ATS Scorer**](https://github.com/swadhishks) | FastAPI · RAG · NLP · OCR · Scikit-learn · React · Docker | 95%+ parse accuracy · 88% JD relevance match · sub-2s response under concurrent load |
+| [**Voice-Activated Coding Assistant**](https://github.com/swadhishks) | Python · Django · Ollama · LLMs · NLP · Prompt Engineering | >90% intent accuracy · sub-1.5s code generation · 35% hallucination reduction · 10+ languages |
+| [**Real-Time Face Recognition System**](https://github.com/swadhishks) | Python · OpenCV · LBPH · Computer Vision | Modular 3-stage architecture · zero-reboot enrollment · zero-downtime updates · variable lighting robustness |
 
 </div>
 
------
+---
 
 ## 🏅 Achievements
 
 <div align="center">
 
-|🎖️  |Achievement                           |Details                                                                                                   |
-|:-:|:-------------------------------------|:---------------------------------------------------------------------------------------------------------|
-|⚡  |**30% Inference Latency Reduction**   |Applied model quantization & pruning on HuggingFace Transformers in production — zero accuracy degradation|
-|🚀  |**40% Processing Time Savings**       |FastAPI-based ML pipeline deployment at Cyber Square Professional                                         |
-|🎯  |**95%+ Parse Accuracy**               |Document parsing platform (PDF/DOCX/image OCR) in AI Resume Analyzer                                      |
-|🤝  |**88% Job-Description Match Accuracy**|NLP-based ATS scoring with RAG-enriched pipeline                                                          |
-|🧠  |**>90% Intent Accuracy**              |Voice-to-code AI pipeline with sub-1.5s generation latency                                                |
-|📉  |**35% Hallucination Reduction**       |Systematic prompt engineering applied at Django REST API layer                                            |
-|🎓  |**B.Tech CSE Graduate**               |APJ Abdul Kalam Technological University · 2021–2025                                                      |
+| 🎖️ | Achievement | Details |
+|:---:|:---|:---|
+| ⚡ | **30% Inference Latency Reduction** | Applied model quantization & pruning on HuggingFace Transformers in production — zero accuracy degradation |
+| 🚀 | **40% Processing Time Savings** | FastAPI-based ML pipeline deployment at Cyber Square Professional |
+| 🎯 | **95%+ Parse Accuracy** | Document parsing platform (PDF/DOCX/image OCR) in AI Resume Analyzer |
+| 🤝 | **88% Job-Description Match Accuracy** | NLP-based ATS scoring with RAG-enriched pipeline |
+| 🧠 | **>90% Intent Accuracy** | Voice-to-code AI pipeline with sub-1.5s generation latency |
+| 📉 | **35% Hallucination Reduction** | Systematic prompt engineering applied at Django REST API layer |
+| 🎓 | **B.Tech CSE Graduate** | APJ Abdul Kalam Technological University · 2021–2025 |
 
 </div>
 
------
+---
 
 ## 🎓 Education & Currently Learning
 
 <div align="center">
 
-|🎓 Degree                               |🏫 Institution                                             |📅 Year     |
-|:-------------------------------------:|:--------------------------------------------------------:|:---------:|
-|B.Tech — Computer Science & Engineering|APJ Abdul Kalam Technological University, Thrissur, Kerala|2021 – 2025|
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|:---:|:---|:---:|
+| B.Tech — Computer Science & Engineering | APJ Abdul Kalam Technological University, Thrissur, Kerala | 2021 – 2025 |
 
 </div>
 
@@ -232,7 +233,7 @@ print(me.motto())
   📊 Data Science    → Kaggle Projects, A/B Testing, Dashboards (Tableau / Power BI)
 ```
 
------
+---
 
 <div align="center">
   <i>"Bridge research and real products. Ship AI that matters."</i>
