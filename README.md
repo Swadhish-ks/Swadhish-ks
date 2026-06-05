@@ -28,7 +28,6 @@
 <tr>
 <td valign="top" width="55%">
 
-```python
 class SwadhishKS:
     def __init__(self):
         self.name     = "Swadhish K S"
