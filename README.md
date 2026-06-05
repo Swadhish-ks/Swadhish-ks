@@ -28,40 +28,23 @@
 <tr>
 <td valign="top" width="55%">
 
-class SwadhishKS:
-    def __init__(self):
-        self.name     = "Swadhish K S"
-        self.location = "Kerala, India 🇮🇳"
-        self.degree   = "B.Tech CSE"
-        self.role     = "AI/ML Engineer | LLM Engineer"
-        self.email    = "swadhishofficial@gmail.com"
+👋 Hi! I'm **Swadhish K S**, an **AI/ML Engineer & LLM Engineer** from Kerala, India 🇮🇳
 
-        self.stack = [
-            "Python", "LangChain", "LlamaIndex",
-            "LangGraph", "FastAPI", "Django",
-            "Hugging Face", "PyTorch", "OpenAI API",
-            "Ollama", "FAISS", "ChromaDB",
-            "Docker", "AWS", "RAG", "Agentic AI"
-        ]
+🎓 B.Tech in Computer Science & Engineering from **APJ Abdul Kalam Technological University**
 
-        self.currently_learning = [
-            "LangGraph Multi-Agent Systems",
-            "Model Fine-Tuning & RLHF",
-            "MLOps & Production LLM Deployment",
-            "Advanced Prompt Engineering"
-        ]
+💼 I build production-grade AI systems — RAG pipelines, agentic workflows, and LLM-powered APIs that actually scale.
 
-        self.fun_fact = (
-            "Cut inference latency 30% via "
-            "quantization — before coffee ☕"
-        )
+🔧 My go-to stack includes **Python, LangChain, LlamaIndex, LangGraph, FastAPI, PyTorch, Hugging Face, Docker, AWS, FAISS** and **ChromaDB**.
 
-    def motto(self):
-        return "Ship AI that matters."
+📚 Currently leveling up in:
+- 🤖 LangGraph Multi-Agent Systems
+- 🔬 Model Fine-Tuning (LoRA, QLoRA, RLHF)
+- ☁️ MLOps & Production LLM Deployment
+- 💡 Advanced Prompt Engineering
 
-me = SwadhishKS()
-print(me.motto())
-```
+⚡ Fun fact: I cut inference latency by **30%** using model quantization — before my morning coffee ☕
+
+> *"Bridge research and real products. Ship AI that matters."*
 
 </td>
 <td valign="top" width="45%" align="center">
