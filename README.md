@@ -1,235 +1,262 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swadhish%20K%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Python%20Developer%20%7C%20Building%20Intelligent%20Systems%20that%20Scale&descAlignY=62&descSize=16" width="100%"/>
+<!-- ============================== HEADER ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Swadhish%20K%20S&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Backend%20Developer&descAlignY=60&descSize=20" width="100%" alt="header"/>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Python+Developer;RAG+Pipelines+%2B+Agentic+AI+Builder;Computer+Vision+%7C+NLP+%7C+Generative+AI;Turning+Data+Into+Production+AI+Systems" alt="Typing SVG" />
-  </a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Building+AI-powered+apps+%26+REST+APIs;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+RAG;Turning+data+into+production-ready+AI+systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=swadhishks&label=Profile+Views&color=70a5fd&style=for-the-badge" alt="Profile Views"/>
+<a href="https://linkedin.com/in/swadhishks"><img src="https://img.shields.io/badge/LinkedIn-swadhishks-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:swadhishofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Kerala-India-38BDAE?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swadhishks&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  &nbsp;
-  <a href="https://linkedin.com/in/swadhishks">
-    <img src="https://img.shields.io/badge/LinkedIn-swadhishks-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:swadhishofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-swadhishofficial@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Phone-%2B91%207907977284-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt="divider"/>
 
----
+<!-- ============================== ABOUT ============================== -->
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="58%" valign="top">
 
-👋 Hi! I'm **Swadhish K S**, an **AI/ML Engineer & Python Developer** from Kerala, India 🇮🇳
+```python
+class Swadhish:
+    role      = "AI/ML Engineer | Backend Developer"
+    location  = "Kerala, India 🇮🇳"
+    education = "B.Tech CSE, APJ Abdul Kalam Technological University"
+    stack     = ["Python", "FastAPI", "Django", "TensorFlow", "PyTorch", "OpenCV"]
+    focus     = ["AI Applications", "REST APIs", "Computer Vision", "NLP", "RAG"]
+    mission   = "Bridge research and real products. Ship AI that matters."
+```
 
-🎓 B.Tech in Computer Science & Engineering from **APJ Abdul Kalam Technological University**
-
-💼 I build AI-powered applications spanning **computer vision, NLP, and LLM-based systems** — from REST APIs to full end-to-end products.
-
-🔧 My core stack: **Python, FastAPI, TensorFlow, PyTorch, OpenCV, LangChain**, and **data science tools** like Pandas, NumPy & Scikit-learn.
-
-📊 I also work extensively with **data analysis & predictive modeling** — cleaning, visualizing, and modeling real-world datasets.
-
-📚 Currently leveling up in:
-- 🤖 Agentic AI & Multi-Agent Systems
-- 🔬 LLM Fine-Tuning (LoRA / QLoRA)
-- 📈 Advanced Data Science & Dashboards (Tableau / Power BI)
-- 💡 Prompt Engineering & RAG
-
-> *"Bridge research and real products. Ship AI that matters."*
+I'm a **Python Developer and AI/ML Engineer** with hands-on experience building **AI-powered applications, RESTful APIs and backend systems** using **Python, FastAPI and Django**. I enjoy taking an idea from raw data and models all the way to a working, end-to-end product.
 
 </td>
-<td valign="top" width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="Coding GIF"/>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="330" alt="coding"/>
+
 </td>
 </tr>
 </table>
 
----
+### 🌱 Currently Exploring
 
-## 🛠️ Skills & Tech Stack
-*(as reflected in my resume)*
+<div align="center">
 
-**💻 Programming Languages**
+![Agentic AI](https://img.shields.io/badge/🤖_Agentic_AI-Multi--Agent_Systems-6A3FA0?style=for-the-badge)
+![LLM Fine-Tuning](https://img.shields.io/badge/🔬_LLM_Fine--Tuning-LoRA_/_QLoRA-5C3EE8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/📚_RAG-Pipelines-38BDAE?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/💡_Prompt-Engineering-70A5FD?style=for-the-badge)
+
+</div>
+
+<!-- ============================== SKILLS ============================== -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,html,cpp,postgres&theme=dark" alt="languages"/>
+<br/>
+<sub>Python · JavaScript · HTML5 · C++ · SQL</sub>
+
+<br/><br/>
+
+**⚙️ Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,react&theme=dark" alt="frameworks"/>
+<br/>
+<sub>FastAPI · Django · React.js · REST APIs</sub>
+
+<br/><br/>
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="ai-ml"/>
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-LLMs-0D1117?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-Text_Extraction-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6A3FA0?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-70A5FD?style=flat-square"/>
+
+<br/><br/>
+
+**📊 Data & Databases**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql&theme=dark" alt="data"/>
+
+<br/><br/>
+
+**🧰 Tools & Practices**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="tools"/>
+<br/>
+<sub>OOP · Data Structures & Algorithms · SDLC · Debugging · Unit Testing</sub>
+
+</div>
+
+<!-- ============================== EXPERIENCE ============================== -->
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 AI/ML Engineer Intern — *Cyber Square Professional*
+`📍 On-site, Calicut, Kerala` &nbsp; `📅 Jul 2025 – Mar 2026`
+
+- 🚀 Built **AI applications and REST APIs** using **Python, FastAPI, TensorFlow, PyTorch and OpenCV**
+- ⚙️ Developed **ML pipelines** covering data preprocessing, feature engineering, model training and inference
+- 🎯 Delivered AI solutions including an **ATS Resume Analyzer**, **Face Recognition System** and **House Price Prediction**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**🧩 Frameworks & Libraries**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-4B8BBE?style=flat-square)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-black?style=flat-square)
-![TGI](https://img.shields.io/badge/TGI-yellow?style=flat-square)
-
-**📊 Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-> 📈 Data Analysis · Data Visualization · Predictive Modeling · Feature Engineering · EDA · A/B Testing
-
-**🤖 AI/ML & Generative AI**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-black?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-70A5FD?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6A3FA0?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-38BDAE?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**🗄️ Databases & Tools**
+</td>
+</tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**⚙️ Software Engineering**
-
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat-square)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC-4B8BBE?style=flat-square)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4B8BBE?style=flat-square)
-![Debugging](https://img.shields.io/badge/Debugging-4B8BBE?style=flat-square)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swadhishks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhishks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=swadhishks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhishks&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-## 💼 Work Experience
-
-<details open>
-<summary><b>🏢 Cyber Square Professional &nbsp;|&nbsp; AI/ML Engineer Intern &nbsp;|&nbsp; Jul 2025 – Mar 2026 &nbsp;|&nbsp; On-site, Calicut, Kerala</b></summary>
-
-<br/>
-
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-> ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-- 🎓 Completed hands-on training in **Python, PostgreSQL, data structures**, and software development fundamentals.
-- 📊 Built data analysis & ML projects using **NumPy, Pandas, Matplotlib, Scikit-learn, and Streamlit** for data processing, visualization, predictive modeling, and interactive ML apps.
-- 🤖 Developed AI-powered applications including an **AI Resume Analyzer**, **Face Recognition System**, and ML projects such as **House Price Prediction**.
-- 🧠 Gained practical experience across **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI** through project-based learning.
-- 🚀 Designed REST APIs using **FastAPI** and implemented AI solutions with **TensorFlow, PyTorch, OpenCV**, and **Git**.
-
-</details>
-
----
+<!-- ============================== PROJECTS ============================== -->
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📄 AI Resume Analyzer
+`2026 – Present`
+
+AI-powered **ATS resume analyzer** for parsing, job matching and scoring.
+
+- Processes **PDF, DOCX and image** resumes using NLP + OCR
+- **REST APIs** for AI-driven resume evaluation and recommendations
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/swadhishks)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎙️ Voice-to-Code AI Web
+`2024 – 2025`
+
+AI assistant that turns **voice commands into executable Python code**.
+
+- **Django** backend for speech processing and AI code generation
+- Responsive web UI designed for **hands-free programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/swadhishks)
+
+</td>
+<td width="33%" valign="top">
+
+### 🙂 Face Recognition System
+`2026`
+
+**Real-time face recognition** built with OpenCV and LBPH.
+
+- Image preprocessing + model training for accurate recognition
+- Improved performance under **varying lighting conditions**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/swadhishks)
+
+</td>
+</tr>
+</table>
+
+<!-- ============================== GITHUB STATS ============================== -->
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-| 🗂️ Project | 🔧 Stack | ✨ Highlights |
-|:---|:---|:---|
-| [**AI Resume Analyzer**](https://github.com/swadhishks) *(2026–Present)* | Python · FastAPI · Ollama · NLP · OCR · Scikit-learn · Pandas · React · SQL | Resume parsing (PDF/DOCX/image) · ATS scoring & skill-gap analysis · REST API + React frontend |
-| [**Voice-to-Code AI Web**](https://github.com/swadhishks) *(2024–2025)* | Python · Django · Ollama · Speech Recognition · NLP · HTML/CSS/JS | Voice-controlled coding assistant · real-time speech-to-code · LLM-integrated backend |
-| [**Face Recognition System**](https://github.com/swadhishks) *(2026)* | Python · OpenCV · NumPy · Computer Vision | Real-time face detection & LBPH recognition · automated dataset collection · robust preprocessing |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year | CGPA |
-|:---:|:---|:---:|:---:|
-| B.Tech — Computer Science & Engineering | APJ Abdul Kalam Technological University, Kerala | 2021 – 2025 | 6.0 |
-
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-![English](https://img.shields.io/badge/English-38BDAE?style=flat-square)
-![Malayalam](https://img.shields.io/badge/Malayalam-38BDAE?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-38BDAE?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-38BDAE?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Bridge research and real products. Ship AI that matters."</i>
-  <br/><br/>
-  <a href="https://linkedin.com/in/swadhishks">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:swadhishofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=swadhishks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhishks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=swadhishks&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swadhishks&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+<!-- ============================== EDUCATION & LANGUAGES ============================== -->
+
+## 🎓 Education & Languages
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**🏫 APJ Abdul Kalam Technological University, Kerala**
+Bachelor of Technology — Computer Science & Engineering
+`2021 – 2025`
+
+</td>
+<td width="40%" valign="top">
+
+**🌐 Languages**
+
+![English](https://img.shields.io/badge/English-38BDAE?style=for-the-badge)
+![Malayalam](https://img.shields.io/badge/Malayalam-38BDAE?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-38BDAE?style=for-the-badge)
+![Tamil](https://img.shields.io/badge/Tamil-38BDAE?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<!-- ============================== CONTACT ============================== -->
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/swadhishks"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:swadhishofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-swadhishofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/swadhishks"><img src="https://img.shields.io/badge/GitHub-swadhishks-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&italic=true&size=18&duration=3500&pause=1500&color=BF91F3&center=true&vCenter=true&width=600&lines=%22Bridge+research+and+real+products.%22;%22Ship+AI+that+matters.%22" alt="quote"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
